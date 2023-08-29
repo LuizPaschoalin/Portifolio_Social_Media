@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
 
 * {
     margin: 0;
@@ -24,6 +25,9 @@ body {
 }
 .conteudo__texto {
      width: 615px;
+     display: flex;
+     flex-direction: column;
+     gap: 40px;
 }
 .conteudo__texto__titulo {
     font-size: 36px;
@@ -35,5 +39,17 @@ body {
 }
 .conteudo__botoes {
     display: flex;
-    justify-content: space-around; /* spacebetween */
+    justify-content: space-between;
+}
+.conteudo__botoes__botao {
+    background-color: #22d4fd;
+    text-align: center;
+    width: 180px;
+    border-radius: 16px;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 21.5px 0px;
+    text-decoration: none;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
 }
