@@ -42,7 +42,8 @@ My first web-development
 ## About The Project
 
 ![Print Projeto](print.png)
-portifolio-social-media.netlify.app
+
+[![netlify][netlify.io]][netlify-url]
 
 This is my first project, i made it quickly simple, just to learn HTML and CSS.
 I made some buttons linked with my social media and they are working.
@@ -88,3 +89,5 @@ Project Link: [https://github.com/LuizPaschoalin/Portifolio_Social_Media/issues]
 [html-url]: https://www.w3schools.com/html/
 [css.io]: https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 [css-url]: https://www.w3schools.com/css/
+[netlify.io]: https://img.shields.io/badge/Hosted%20Website%20Link-blue
+[netlify-url]: portifolio-social-media.netlify.app
