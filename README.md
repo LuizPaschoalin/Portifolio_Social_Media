@@ -43,7 +43,7 @@ My first web-development
 
 ![Print Projeto](assets/print.png)
 
-![netlify][netlify.io] ```portifolio-social-media.netlify.app``` (ctrl+c, ctrl+v)
+![netlify][netlify.io] ```portifolio-social-media.netlify.app```
 
 This is my first project, i made it quickly simple, just to learn HTML and CSS.
 I made some buttons linked with my social media and they are working.
