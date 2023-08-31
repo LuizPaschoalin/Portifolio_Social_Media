@@ -43,7 +43,7 @@ My first web-development
 
 ![Print Projeto](assets/print.png)
 
-[![netlify][netlify.io]][netlify-url]
+![netlify][netlify.io] ```portifolio-social-media.netlify.app```
 
 This is my first project, i made it quickly simple, just to learn HTML and CSS.
 I made some buttons linked with my social media and they are working.
@@ -75,13 +75,13 @@ Project Link: [https://github.com/LuizPaschoalin/Portifolio_Social_Media/issues]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/LuizPaschoalin/Portifolio_Social_Media.svg?style=for-the-badge
 [contributors-url]: https://github.com/LuizPaschoalin/Portifolio_Social_Media/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/LuizPaschoalin/Portifolio_Social_Media.svg?style=for-the-badge
 [forks-url]: https://github.com/LuizPaschoalin/Portifolio_Social_Media/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/LuizPaschoalin/Portifolio_Social_Media.svg?style=for-the-badge
 [stars-url]: https://github.com/LuizPaschoalin/Portifolio_Social_Media/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/LuizPaschoalin/Portifolio_Social_Media.svg?style=for-the-badge
 [issues-url]: https://github.com/LuizPaschoalin/Portifolio_Social_Media/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/luiz-antonio-paschoalin/
