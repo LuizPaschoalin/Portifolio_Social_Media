@@ -19,7 +19,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/LuizPaschoalin/Portifolio_Social_Media">
-    <img src="open-book.png" alt="Logo" width="80" height="80">
+    <img src="assets/open-book.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Portfolio Social Media</h3>
@@ -41,7 +41,7 @@ My first web-development
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Print Projeto](print.png)
+![Print Projeto](assets/print.png)
 
 [![netlify][netlify.io]][netlify-url]
 
