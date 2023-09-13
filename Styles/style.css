@@ -19,7 +19,7 @@ body {
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
-    padding: 6% 15%;
+    padding: 4% 15% 15% 15%;
 }
 .conteudo__texto {
      width: 615px;
@@ -77,4 +77,16 @@ body {
     background-color: #22d4fd;
     padding: 23px 0px;
 }
-
+.cabecalho {
+    padding: 2% 0% 0% 15%;
+}
+.cabecalho__menu {
+    display: flex;
+    gap: 80px;
+}
+.cabecalho__menu__link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 600px;
+    color: #22d4fd;
+}
