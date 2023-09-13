@@ -36,6 +36,13 @@ body {
     font-family: 'Montserrat', sans-serif;
     text-align: justify;
 }
+.conteudo__texto__paragrafo a{
+    text-decoration: none;
+    color: #22D4FD;
+}
+ul.conteudo__texto__paragrafo {
+    padding: 0%;
+}
 .conteudo__botoes {
     display: flex;
     flex-direction: column;
@@ -78,15 +85,25 @@ body {
     padding: 23px 0px;
 }
 .cabecalho {
-    padding: 2% 0% 0% 15%;
+    padding: 2% 0% 2% 15%;
 }
 .cabecalho__menu {
     display: flex;
-    gap: 80px;
+    gap: 100px;
 }
 .cabecalho__menu__link {
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
     font-weight: 600px;
     color: #22d4fd;
+    text-decoration: none;
+}
+.cabecalho__menu__link:hover {
+    color: #22d4fd;
+    transform: scale(1.13);
+}
+
+.apresentacao__conteudo__texto {
+    text-decoration: none;
+    color: #22D4FD;
 }
