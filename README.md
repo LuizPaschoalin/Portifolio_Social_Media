@@ -66,8 +66,8 @@ I made some buttons linked with my social media and they are working.
 ## Contact
 
 Luiz Paschoalin -  luiz.razer@hotmail.com
-
-Project Link: [https://github.com/LuizPaschoalin/Portifolio_Social_Media/issues](https://github.com/LuizPaschoalin/Portifolio_Social_Media/issues)
+instagram - @luizpaschoalin
+Project Link: [https://github.com/LuizPaschoalin/Portifolio_Social_Media](https://github.com/LuizPaschoalin/Portifolio_Social_Media)
 
 
 
