@@ -2,18 +2,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
 
+:root {
+    --cor-primaria: black;
+    --cor-secundaria: white;
+    --cor-terciaria: #22D4FD;
+}
+
 * {
     margin: 0;
     border: 0;
 }
 body {
     box-sizing: border-box;
-    background-color: black;
-    color: #F6F6F6;
+    background-color: var(--cor-primaria);
+    color: var(--cor-secundaria);
 }
 
  .nome_azul {    
-    color: #22d4fd;
+    color: var(--cor-terciaria);
 }
 .conteudo {
     display: flex;
@@ -38,7 +44,7 @@ body {
 }
 .conteudo__texto__paragrafo a{
     text-decoration: none;
-    color: #22D4FD;
+    color: var(--cor-terciaria);
 }
 ul.conteudo__texto__paragrafo {
     padding: 0%;
@@ -61,7 +67,7 @@ ul.conteudo__texto__paragrafo {
     align-items: center;
     justify-content: center;
     gap: 16px;
-    border: 2px solid #22d4fd;
+    border: 2px solid var(--cor-terciaria);
     text-align: center;
     width: 378px;
     border-radius: 8px;
@@ -69,7 +75,7 @@ ul.conteudo__texto__paragrafo {
     font-weight: 200;
     padding: 21.5px 0px;
     text-decoration: none;
-    color: #f6f6f6;
+    color: var(--cor-secundaria);
     font-family: 'Montserrat', sans-serif;
 }
 .conteudo__botoes__botao:hover {
@@ -81,8 +87,8 @@ ul.conteudo__texto__paragrafo {
     display: flex;
     justify-content: center;
     font-family: 'Montserrat', sans-serif;
-    color: black;
-    background-color: #22d4fd;
+    color: var(--cor-primaria);
+    background-color: var(--cor-terciaria);
     padding: 23px 0px;
 }
 .cabecalho {
@@ -96,15 +102,15 @@ ul.conteudo__texto__paragrafo {
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
     font-weight: 600px;
-    color: #22d4fd;
+    color: var(--cor-terciaria);
     text-decoration: none;
 }
 .cabecalho__menu__link:hover {
-    color: #22d4fd;
+    color: var(--cor-terciaria);
     transform: scale(1.13);
 }
 
 .apresentacao__conteudo__texto {
     text-decoration: none;
-    color: #22D4FD;
+    color: var(--cor-terciaria);
 }
