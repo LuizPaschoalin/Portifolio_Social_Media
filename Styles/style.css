@@ -28,17 +28,17 @@ body {
     padding: 4% 15% 15% 15%;
 }
 .conteudo__texto {
-     width: 615px;
+     width: 38.4375rem;
      display: flex;
      flex-direction: column;
-     gap: 40px;
+     gap: 2.5rem;
 }
 .conteudo__texto__titulo {
-    font-size: 36px;
+    font-size: 2.25rem;
     font-family: 'Krona One', sans-serif;
 }
 .conteudo__texto__paragrafo {
-    font-size: 24px;
+    font-size: 1.5rem;
     font-family: 'Montserrat', sans-serif;
     text-align: justify;
 }
@@ -54,33 +54,33 @@ ul.conteudo__texto__paragrafo {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    gap: 32px;
+    gap: 2rem;
 }
 .conteudo__botoes__subtitulo {
     font-family: 'Krona One', sans-serif;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 .conteudo__botoes__botao {
     /* background-color: #22d4fd; */
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 16px;
-    border: 2px solid var(--cor-terciaria);
+    gap: 1rem;
+    border: 0.125rem solid var(--cor-terciaria);
     text-align: center;
-    width: 378px;
-    border-radius: 8px;
-    font-size: 24px;
+    width: 23.625rem;
+    border-radius: 0.5rem;
+    font-size: 1.5rem;
     font-weight: 200;
-    padding: 21.5px 0px;
+    padding: 1.3438rem 0rem;
     text-decoration: none;
     color: var(--cor-secundaria);
     font-family: 'Montserrat', sans-serif;
 }
 .conteudo__botoes__botao:hover {
     background-color: #272727;
-    width: 400px;
+    width: 25rem;
 }
 .footer {
     width: 100%;
@@ -89,19 +89,19 @@ ul.conteudo__texto__paragrafo {
     font-family: 'Montserrat', sans-serif;
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
-    padding: 23px 0px;
+    padding: 1.4375rem 0rem;
 }
 .cabecalho {
     padding: 2% 0% 2% 15%;
 }
 .cabecalho__menu {
     display: flex;
-    gap: 100px;
+    gap: 6.25rem;
 }
 .cabecalho__menu__link {
     font-family: 'Montserrat', sans-serif;
-    font-size: 20px;
-    font-weight: 600px;
+    font-size: 1.25rem;
+    font-weight: 37.5rem;
     color: var(--cor-terciaria);
     text-decoration: none;
 }
