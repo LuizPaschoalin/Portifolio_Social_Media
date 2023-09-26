@@ -24,11 +24,11 @@ body {
 .conteudo {
     display: flex;
     align-items: flex-start;
-    justify-content: space-between;
-    padding: 4% 15% 15% 15%;
+    justify-content: space-evenly;
+    padding: 4% 15%; 
+    gap: 10%;
 }
 .conteudo__texto {
-     width: 38.4375rem;
      display: flex;
      flex-direction: column;
      gap: 2.5rem;
@@ -69,7 +69,7 @@ ul.conteudo__texto__paragrafo {
     gap: 1rem;
     border: 0.125rem solid var(--cor-terciaria);
     text-align: center;
-    width: 23.625rem;
+    width: 96%;
     border-radius: 0.5rem;
     font-size: 1.5rem;
     font-weight: 200;
@@ -80,7 +80,7 @@ ul.conteudo__texto__paragrafo {
 }
 .conteudo__botoes__botao:hover {
     background-color: #272727;
-    width: 25rem;
+    width: 100%;
 }
 .footer {
     width: 100%;
@@ -92,7 +92,7 @@ ul.conteudo__texto__paragrafo {
     padding: 1.4375rem 0rem;
 }
 .cabecalho {
-    padding: 2% 0% 2% 15%;
+    padding: 3% 15%;
 }
 .cabecalho__menu {
     display: flex;
@@ -114,3 +114,61 @@ ul.conteudo__texto__paragrafo {
     text-decoration: none;
     color: var(--cor-terciaria);
 }
+.conteudo__imagem {
+    width: 100%;
+    position: relative;
+}
+
+
+@media (max-width: 800px) {
+    .conteudo {
+        flex-direction: column-reverse;
+        align-items: center;
+        padding: 5%;
+    }
+    .cabecalho {
+        padding: 5%;
+    }
+    .cabecalho__menu { 
+        justify-content: space-between;
+    }
+    
+    html {
+        width: 100%;
+    }
+}
+
+@media (max-width: 480px) {
+    .conteudo {
+        flex-direction: column-reverse;
+        align-items: center;
+        padding: 5%;
+    }
+    .cabecalho {
+        padding: 5%;
+    }
+    .conteudo__texto__titulo {
+        font-size: 1.75rem; 
+    }
+    .conteudo__texto__paragrafo {
+        font-size: 1.25rem; 
+    }
+    .conteudo__botoes__subtitulo {
+        font-size: 1.25rem; 
+    }
+    .conteudo__botoes__botao {
+        width: 80%; 
+        font-size: 1.25rem; 
+    }
+    .conteudo__botoes__botao:hover {
+        width: 85%; 
+    }
+    .cabecalho__menu {
+        gap: 3rem; /
+    }
+        
+    html {
+        width: 100%;
+    }
+}
+
