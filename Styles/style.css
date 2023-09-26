@@ -116,6 +116,7 @@ ul.conteudo__texto__paragrafo {
 }
 .conteudo__imagem {
     width: 100%;
+    height: 100%;
     position: relative;
 }
 
