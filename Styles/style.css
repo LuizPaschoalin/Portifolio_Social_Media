@@ -121,6 +121,10 @@ ul.conteudo__texto__paragrafo {
 
 
 @media (max-width: 800px) {
+    .conteudo__imagem {
+        width: 80%;
+        text-align: center;
+    }
     .conteudo {
         flex-direction: column-reverse;
         align-items: center;
@@ -139,6 +143,10 @@ ul.conteudo__texto__paragrafo {
 }
 
 @media (max-width: 480px) {
+    .conteudo__imagem {
+        width: 80%;
+        text-align: center;
+    }
     .conteudo {
         flex-direction: column-reverse;
         align-items: center;
