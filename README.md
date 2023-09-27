@@ -41,7 +41,10 @@ My first web-development
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Print Projeto](assets/print.png)
+![Print Index](https://github.com/LuizPaschoalin/Portifolio_Social_Media/assets/103080908/d0f8dfce-23ee-451d-8475-20cdb18e7492)
+![Print Sobre](https://github.com/LuizPaschoalin/Portifolio_Social_Media/assets/103080908/1dd0f0ab-08b0-4dcc-a128-86a2c7d21304)
+![Print Curriculo](https://github.com/LuizPaschoalin/Portifolio_Social_Media/assets/103080908/d8796fbe-5226-49fa-b4a3-edc4ba317ffa)
+
 
 ![netlify][netlify.io] ```portifolio-social-media.netlify.app```
 
