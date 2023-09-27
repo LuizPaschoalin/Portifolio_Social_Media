@@ -122,7 +122,7 @@ ul.conteudo__texto__paragrafo {
 
 @media (max-width: 800px) {
     .conteudo__imagem {
-        width: 80%;
+        width: 95%;
         text-align: center;
     }
     .conteudo {
@@ -144,7 +144,7 @@ ul.conteudo__texto__paragrafo {
 
 @media (max-width: 480px) {
     .conteudo__imagem {
-        width: 80%;
+        width: 95%;
         text-align: center;
     }
     .conteudo {
